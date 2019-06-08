@@ -1,0 +1,12 @@
+package com.yychatclient.view;
+
+public class Qidong {
+	// TODO Auto-generated method stub
+			GreedSnake gs;
+			try {
+				gs = new GreedSnake();
+			} catch (Exception e2) { // TODO: handle exception}
+			}
+
+		}
+}

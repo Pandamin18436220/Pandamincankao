@@ -1,0 +1,14 @@
+
+public class qidong {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		GreedSnake gs;
+		try {
+			gs = new GreedSnake();
+		} catch (Exception e2) { // TODO: handle exception}
+		}
+
+	}
+
+}
